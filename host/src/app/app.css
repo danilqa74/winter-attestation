@@ -1,0 +1,13 @@
+.root {
+  min-height: 100%;
+}
+
+.toolbar {
+  margin-top: 40px;
+  flex-grow: 0;
+}
+
+.content {
+  flex-grow: 1;
+  margin: 0 40px 40px;
+}
